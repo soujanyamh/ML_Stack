@@ -3,7 +3,6 @@ The advertising dataset captures the sales revenue generated with respect to adv
 
 It is required to understand the impact of ad budgets on the overall sales.
 
-
 Objective:
 Understand the Dataset & cleanup (if required).
 Build Regression models to predict the sales w.r.t a single & multiple features.
