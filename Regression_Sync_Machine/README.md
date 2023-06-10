@@ -1,0 +1,6 @@
+Synchronous Machine Dataset
+
+Context
+A synchronous electric motor is an AC electric motor in which, at steady state, the rotation of the shaft is synchronized with the frequency of the supply current; the rotation period is exactly equal to an integral number of AC cycles. Synchronous motors contain multiphase AC electromagnets on the stator of the motor that create a magnetic field which rotates in time with the oscillations of the line current. The rotor with permanent magnets or electromagnets turns in step with the stator field at the same rate and as a result, provides the second synchronized rotating magnet field of any AC motor. A synchronous motor is termed doubly fed if it is supplied with independently excited multiphase AC electromagnets on both the rotor and stator.
+Synchronous motors are AC motors with constant speed. This Synchronous Machine dataset is obtained from a real experimental set. The task is to create strong models to estimate the excitation current of the Synchronous Machine.
+Attribute Information 1) I_y: Load Current 2) PF: Power factor 3) e_PF: Power factor error 4) d_if: Changing of excitation current of synchronous machine 5) I_f: Excitation current of synchronous machine
